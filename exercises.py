@@ -42,21 +42,29 @@ for line in open('hb_exercises.txt'):
                               completed=availability))
 
 def print_exercises():
+    """shows all exercises"""
+
     for exercise in exercises:
         print(f'{exercise}, link: {exercise.link}')
 
 def print_unfinished_exercises():
+    """shows all exercises that haven't been done yet
+    when you finish an exercise, write date and name in hb_exercises.txt"""
+
     for exercise in exercises:
         if exercise.completed == 'Available':
             print(f'{exercise}, link: {exercise.link}')
 
 def print_exercises_difficulty(target):
-    """Select difficulty from Easier, Medium, or Harder"""
+    """Select difficulty from Easier, Medium, or Harder, case insensitive"""
+
     for exercise in exercises:
         if exercise.challenge.lower() == target.lower():
             print(f'{exercise}, link: {exercise.link}')
 
 def print_exercises_whiteboarding():
+    """shows all exercises with a whiteboarding difficulty"""
+    
     for exercise in exercises:
         if exercise.whiteboard:
             print(f'{exercise}, link: {exercise.link}')
