@@ -1,0 +1,53 @@
+Add Linked Lists, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/add-linked-lists/index.html, Linked Lists, Available
+Battleship!, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/battleship/index.html, Object Orientation and Reading Code, Available
+Binary Search Tree Validator, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/bst-valid/index.html, Recursion and Trees, Available
+Boggle, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/boggle/index.html, Recursion, Available
+Calculator, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/calculator/index.html, Stacks, Available
+Check Detection, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/check/index.html, Data Structures and General, Available
+Check Tree Balance, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/check-balanced/index.html, Trees and Recursion, Available
+Circular Array, Challenge Medium, Whiteboard none, https://fellowship.hackbrightacademy.com/materials/challenges/circular-array/index.html, Data Structures and Lists, Available
+Coins, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/coins/index.html, Recursion, Available
+Count Employees, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/count-employees/index.html, Recursion and Trees, Available
+Decimal To Binary, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/dec2bin/index.html, General, Available
+Decode a String, Challenge Easier, Whiteboard Medium, https://fellowship.hackbrightacademy.com/materials/challenges/decode/index.html, Loops, Available
+Encipher a String, Challenge Medium, Whiteboard Medium, https://fellowship.hackbrightacademy.com/materials/challenges/encipher-string/index.html, Strings and General, Available
+Fit String to Width, Challenge Easier, Whiteboard Medium, https://fellowship.hackbrightacademy.com/materials/challenges/fit-to-width/index.html, Loops, Available
+Friends, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/friends/index.html, Graphs and Recursion, Available
+Hexadecimal Conversion, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/hex-convert/index.html, Math and General, Available
+Insertion Sort, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/insertion-sort/index.html, Sorting, Available
+Josephus Survivors, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/josephus/index.html, General and Linked Lists, Available
+Largest Subsequence Sum, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/largest-sum/index.html, General, Available
+Lazy Lemmings, Challenge Easier, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/lazy-lemmings/index.html, Loops and List and Binary Search, Available
+Leaping Lemur, Challenge Easier, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/leaping-lemur/index.html, Loops and Lists, Available
+Leveret Lunch, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/leveret-lunch/index.html, Loops and Lists, Available
+Make Binary Search Tree, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/make-bst/index.html, Trees and Recursion, Available
+Max Path of Triangle, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/maxpath/index.html, Trees and Graphs, Available
+Merge Sort, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/merge-sort/index.html, Sorting, Available
+Minesweeper!, Challenge Harder, Whiteboard none, https://fellowship.hackbrightacademy.com/materials/challenges/minesweeper/index.html, Object Orientation and Reading Code, Available
+Monkey River Crossing, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/monkey/index.html, Logic and Lists, Available
+Most Active Period, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/most-active/index.html, Logic and Loops, Available
+Most Common Anagram, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/anagrams/index.html, General, Available
+Number To Word, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/numword/index.html, General, Available
+One Edit Away?, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/one-away/index.html, Strings and Logic, Available
+Pattern Matching, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/pattern-match/index.html, Algorithm Design, Available
+Pivot Linked List, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/pivot-ll/index.html, Logic and Linkekd Lists, Available
+Poker, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/poker/index.html, Logic and Data Structures, Available
+Rain in Codelandia, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/rain-in-codelandia/index.html, Logic and Loops, Available
+Reverse Linked List, Challenge Easier, Whiteboard Medium, https://fellowship.hackbrightacademy.com/materials/challenges/rev-linked-list/index.html, Linked Lists, Available
+Reverse Linked List In Place, Challenge Easier, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/rev-linked-list-in-place/index.html, Linked Lists, Available
+Roman Numerals, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/roman-numerals/index.html, General and Math, Available
+Same Line, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/sameline/index.html, Loops and Geometry, Available
+Simple Infix Calculator, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/simple-infix/index.html, Data Structures, Available
+Smallest Difference, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/smallest-diff/index.html, Algorithms and Runtime, Available
+Spiral, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/spiral/index.html, Data Structures, Available
+Split Square, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/split-square/index.html, Recursion and Data Structures, Available
+Split a String, Challenge Easier, Whiteboard Medium, https://fellowship.hackbrightacademy.com/materials/challenges/split/index.html, Loops and Strings, Available
+Staircase Steps, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/staircase-steps/index.html, Recursion and Dynamic Programming, Available
+Stock Prices, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/stock/index.html, Logic, Available
+Takeaway, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/takeaway/index.html, Game Theory, Available
+Tic-Tac-Random, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/tic-tac-random/index.html, Data Structures, Available
+Time Word, Challenge Medium, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/timeword/index.html, General, Available
+Towers of Hanoi, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/hanoi/index.html, Recursion and Stacks, Available
+Tree Cousins, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/tree-cousins/index.html, Trees, Available
+Word Break, Challenge Medium, Whiteboard Harder, https://fellowship.hackbrightacademy.com/materials/challenges/word-break/index.html, Recursion, Available
+Word Prefixes and Tries, Challenge Harder, Whiteboard None, https://fellowship.hackbrightacademy.com/materials/challenges/word-prefixes/index.html, Trees and Tries, Available
